@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: lightpink;
+    src: height: 20px width: 40px;
+}
+nav a {
+    margin: 20px;
+}
+nav {
+    background-color: lightpink;
+    border: solid 1px black;
+    padding: 3px
+}
+main h1 {
+    color: violet
+}
+footer {
+    background-color: lightpink;
+    border: solid 3px lightpink;
+}
+footer p {
+    background-color: white;
+    margin: 5px;
+}
+main p {
+    background-color: green;
+}
+.class ghgh {
+    background-color: white
+}
